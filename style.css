@@ -1,0 +1,214 @@
+body{
+ /* background-image: url("https://fsa.zobj.net/crop.php?r=I8V3HAdkG2wfOxRuwFcbqfscKkStGz_NQJHrzFKZN8vOQYhK6TukyhkLTdT2wMjobN6X66Ib5WkSA6Qjb8juGTROAkk8F2-jUdJ8Ryu5cL6oJ0UEbUW3RVnRm7CSa3mq2GH51-Vqyqy1ZO17"); */
+background-color:rgb(141, 138, 138);
+}
+.first-logo{
+    width: 80px;
+    height: 70px;
+
+}
+.name{
+    color: rgb(163, 135, 63);
+}
+.main2{
+    background-color: rgba(255, 255, 255, 0.863);
+    padding: 10px;
+    display: flex;
+}
+.main{
+     background-image: url("https://fsa.zobj.net/crop.php?r=lwRhwQBWReTPkfLEZATmlWUYyaDCc0JU6UpKHgqYZ_wxa7ENIhuqycIuyqiKdHuUcXtI9Q0GdL7MU5LvswhL6kGAcR8-e0NalNLRhzWEAqtmFZVHJfTTUsaQ6QZb-RpYjUt31fS6l2vQxIT3");
+    padding: 3px;
+    width: 101%;
+    margin-left: -4px;
+    margin-top: -8px;
+    display: inline-block;
+    }
+    
+    .main2{
+        background-color: rgba(255, 255, 255, 0.863);
+        padding: 10px;
+        display: flex;
+    }
+    .button{
+        background-color:white;
+        color:blue;
+        padding: 5px;
+        border: 2px solid royalblue;
+        border-radius: 10px;
+        margin-left: 3px;
+   margin-bottom: 20px;
+   cursor: pointer;
+   }
+   .home{
+margin-left: 900px;
+   }
+  .logo-name{
+     font-style: italic;
+     font-size: 36px;
+     color:honeydew;
+  }
+   .sheikh{
+       color: rgb(247, 247, 247);
+       font-size: large;
+   }
+   .intro{
+       color:black;
+       font-size: xx-large;
+       font-style: italic;
+       font-weight: bolder;
+   }
+   .wlcome{
+       color:black;
+   }
+   .underline{
+       color: yellow;
+   }
+
+   .hello{
+       font-size: xx-large;
+   }
+   .letter{
+    margin-left: 15px;
+    margin-right: 15px;
+   }
+   .knowladge{
+       text-align: center;
+   }
+   .name-company{
+       color:royalblue;
+   }
+   .eid{
+       color: darkred;
+   }
+   .men-women{
+       color:black ;
+   }
+   .description{
+       margin-top: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+   }
+.JEANS COLLECTION{
+       color: tomato;
+       flood-color: tomato;
+   } 
+   .object-pic{
+
+    display: inline-block;
+   }
+   .background-image{
+       width: 300px;
+       height: 200px;
+   }
+   .sell-image{
+
+    width: 300px;
+    height: 200px;
+   }
+   .card-body{
+       background-color: rgb(0, 0, 0);
+   }
+   .logo-main{
+       size: 10px;
+   }
+   .wordings{
+ color:red;
+   }
+   .title-brand{
+       font-style: italic;
+       font-weight: bolder;
+       font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   }
+
+   .card-title{
+  
+   font-size: xx-large;
+   color: ghostwhite;
+   }
+   .card-text{
+       font-size: x-large;
+       color: lightsteelblue;
+   }
+   .manjan{
+       color: paleturquoise;
+       font-size: x-large;
+   }
+   .our-web{
+       color: darkslategrey;
+   }
+   .button-more{
+       border-radius: 30px;
+       background-color: royalblue;
+       font-weight: bolder;
+       color: white;
+   }
+   .contact-list{
+       color: turquoise;
+   }
+   .contact-html{
+background-color: white;
+   }
+   .contact-index{
+       color: wheat;
+       font-size:xx-large ;
+   }
+   .whatsapp-logo{
+      text-align: left;
+      size: 3px;
+   }
+   .verity-all{
+       background-color: white;
+       background-image: url("C:\Users\dell\Downloads\jeans_world_map.jpg");
+   }
+   .verity-page{
+       display: inline-block;
+   }
+   .image-ladies{
+       font-size: 72px;
+       font-weight: bolder;
+       font-family: monospace;
+       text-shadow: rgb(141, 138, 138);
+       text-decoration: rgb(red, rgb(137, 238, 137), blue);
+       text-align: center;
+   }
+  
+   .variety{
+       cursor: all-scroll;
+       color: saddlebrown;
+   }
+   .note-ladies{
+       font-size: xx-large;
+   }
+   .manjan{
+       color: rgb(0, 0, 0);
+   }
+   .number-all{
+       font-size: 50px;
+       font-family: 'Times New Roman', Times, serif;
+       font-weight: bolder;
+       color: rgb(138, 6, 6);
+   }
+
+.us{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: yellow;
+    font-size: 65px;
+}
+.u{
+    color:darkred;
+}
+.number-show{
+
+color: mediumblue;
+}
+.contact-html{
+
+    background-color: rgb(141, 138, 138);
+
+}
+.col{
+    color:yellow;
+}
